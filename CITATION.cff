@@ -3,7 +3,7 @@ message: "If you use this dataset, please cite it as below."
 authors:
   - family-names: Elsaeidy
     given-names: Asmaa
-    orcid: https://orcid.org/0000-0003-4925-7248
+    orcid:
 title: "Queanbeyan Smart City Platform Datasets"
 version: 1.0.0
 doi:
